@@ -1,9 +1,9 @@
 {
-    "name": "vscode-theme-onedark",
-    "displayName": "Atom One Dark Theme",
+    "name": "vscode-theme-onedark-italic",
+    "displayName": "Atom One Dark Theme Italic",
     "description": "One Dark Theme based on Atom",
     "version": "1.2.0",
-    "publisher": "akamud",
+    "publisher": "buffaybu",
     "license": "MIT",
     "galleryBanner": {
 		"color": "#282C34",
@@ -25,7 +25,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Atom One Dark",
+                "label": "Atom One Dark Italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDark.tmTheme"
             }
